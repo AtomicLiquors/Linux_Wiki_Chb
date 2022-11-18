@@ -29,3 +29,10 @@ Q.멀티부팅과는 무엇이 다른가?
 
 VMWare Pro v VMWare Player  
 스냅숏, 네트워크 사용자 설정, 기타 부가기능 등이 무료버전엔 없음
+
+
+
+```
+rdate -s time.bora.net
+```
+현재시간 가져오는 명령어
