@@ -9,3 +9,11 @@
 - 그래픽 부트 메뉴
 - ISO 이미지로 바로 부팅
 
+```
+nano /etc/grub.d/00_header
+```
+
+```
+update-grub
+```
+grub 수정 후 변경 사항을 저장
